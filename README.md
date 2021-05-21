@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joelpo&label=Profile%20views&color=0e75b6&style=flat" alt="hunteroi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joelpo&label=Profile%20views&color=0e75b6&style=flat" alt="joelpo" /> </p>
 
 
 - 🔭  I’m currently working as a software engineer consultant. I've worked with data most of my career.  
