@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelpo&label=Profile%20views&color=0e75b6&style=flat" alt="joelpo" /> </p>
-<a href="https://twitter.com/joelpo7?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @joelpo7</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/joelpo7?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @joelpo7</a>
 
 
 
