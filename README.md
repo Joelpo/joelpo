@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelpo&label=Profile%20views&color=0e75b6&style=flat" alt="joelpo" /> </p>
 
