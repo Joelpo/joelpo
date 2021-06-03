@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelpo&label=Profile%20views&color=0e75b6&style=flat" alt="joelpo" /> </p>
 
-- 🔭  Currently working as a software engineer consultant. I've worked with data most of my career.  
+- 🔭  Currently working as a software engineer consultant.
 
 - ⚡  Looking to collaborate on blockchain projects: smart contract development, on-chain analysis, web3 developement, etc.  
 
